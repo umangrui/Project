@@ -1,0 +1,24 @@
+.nav-wrapper {
+    background-color: #dd1a32;
+}
+
+.brand-logo {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.header {
+    font-family: 'Fjalla One', sans-serif;
+    color: #dd1a32;
+}
+
+.divider {
+    background-color: black;
+}
+
+.page-footer {
+    background-color: #dd1a32;
+}
+
+.page-footer h5 {
+    font-family: 'Fjalla One', sans-serif;
+}
