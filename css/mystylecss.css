@@ -1,9 +1,40 @@
 .nav-wrapper {
     background-color: #dd1a32;
+    font-family: 'Fjalla One', sans-serif; 
 }
 
 .brand-logo {
     font-family: 'Fjalla One', sans-serif;
+}
+
+
+
+.parallax-container {
+    height: 1000px;
+}
+ 
+
+.indexlogo {
+    text-align: center;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    position: absolute;
+    top: 45%;
+    left: 65%;
+    display: inline-block;
+}
+
+.btn {
+    margin: 20px;
+    background-color: #dd1a32;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 24px;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #dd1a32;
 }
 
 .header {
@@ -21,4 +52,52 @@
 
 .page-footer h5 {
     font-family: 'Fjalla One', sans-serif;
+}
+
+.fa-facebook {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+.fa-twitter {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+.fa-youtube {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+.fa-google {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+.fa-pinterest {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+.fa-linkedin {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+.fa-instagram {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+.fa-snapchat {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
 }
